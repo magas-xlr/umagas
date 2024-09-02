@@ -1,0 +1,45 @@
+# MongoDB
+mongodb/
+*.log
+
+# Angular
+node_modules/
+dist/
+out-tsc/
+.angular/
+*.log
+*.tsbuildinfo
+*.js
+*.map
+*.tmp
+*.swp
+
+# Go
+bin/
+pkg/
+*.exe
+*.test
+*.out
+*.a
+*.so
+
+# Selenium
+selenium/
+*.log
+*.tmp
+*.swp
+
+# General files
+*.DS_Store
+*.env
+*.local
+*.cache
+*.npm
+*.yarn
+*.idea
+*.vscode
+*.history
+*.project
+*.settings
+*.classpath
+*.lock
